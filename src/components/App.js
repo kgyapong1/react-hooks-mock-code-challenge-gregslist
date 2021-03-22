@@ -12,8 +12,10 @@ useEffect (
       setListings(listing)
     })
 },[]
-
 )
+
+
+
 
   return (
     <div className="app">
